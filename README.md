@@ -4,5 +4,5 @@ Pursuing the dream of becoming an author :muscle:
 
 ## Contents
 
-- [Prologue](/introduction.md)
+- [Prologue](/prologue.md)
 - Part One
